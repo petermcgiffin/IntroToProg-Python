@@ -1,0 +1,1 @@
+Walk the dog,('High', '\n')Clean the car,('Low', '\n')Do the dishes,('Medium', '\n')
